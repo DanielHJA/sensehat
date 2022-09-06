@@ -1,0 +1,484 @@
+INFO:root:Humidity39.314:41:31
+INFO:root:Temperature24.314:41:31
+INFO:root:Humidity39.314:41:32
+INFO:root:Temperature24.114:41:32
+INFO:root:Humidity39.514:41:33
+INFO:root:Temperature24.114:41:33
+INFO:root:Humidity39.714:41:34
+INFO:root:Temperature24.314:41:34
+INFO:root:Humidity39.114:41:35
+INFO:root:Temperature24.314:41:35
+INFO:root:Humidity39.414:41:36
+INFO:root:Temperature24.214:41:36
+INFO:root:Humidity39.514:41:37
+INFO:root:Temperature24.214:41:37
+INFO:root:Humidity39.514:41:38
+INFO:root:Temperature24.314:41:38
+INFO:root:Humidity39.214:41:39
+INFO:root:Temperature24.314:41:39
+INFO:root:Humidity39.414:41:40
+INFO:root:Temperature24.214:41:40
+INFO:root:Humidity39.514:41:41
+INFO:root:Temperature24.214:41:41
+INFO:root:Humidity39.514:41:42
+INFO:root:Temperature24.314:41:42
+INFO:root:Humidity39.514:41:43
+INFO:root:Temperature24.114:41:43
+INFO:root:Humidity39.314:41:44
+INFO:root:Temperature24.114:41:44
+INFO:root:Humidity39.214:41:45
+INFO:root:Temperature24.314:41:45
+INFO:root:Humidity39.314:41:46
+INFO:root:Temperature24.114:41:46
+INFO:root:Humidity39.314:41:47
+INFO:root:Temperature24.214:41:47
+INFO:root:Humidity39.014:41:48
+INFO:root:Temperature24.214:41:48
+INFO:root:Humidity39.314:41:49
+INFO:root:Temperature24.214:41:49
+INFO:root:Humidity39.514:41:50
+INFO:root:Temperature24.214:41:50
+INFO:root:Humidity39.314:41:54
+INFO:root:Temperature24.314:41:54
+INFO:root:Humidity39.314:41:55
+INFO:root:Temperature24.414:41:55
+INFO:root:Humidity38.914:41:56
+INFO:root:Temperature24.214:41:56
+INFO:root:Humidity39.414:41:57
+INFO:root:Temperature24.214:41:57
+INFO:root:Humidity39.314:41:58
+INFO:root:Temperature24.214:41:58
+INFO:root:Humidity39.314:41:59
+INFO:root:Temperature24.314:41:59
+INFO:root:Humidity39.314:42:00
+INFO:root:Temperature24.314:42:00
+INFO:root:Humidity39.114:42:01
+INFO:root:Temperature24.314:42:01
+INFO:root:Humidity39.114:42:02
+INFO:root:Temperature24.214:42:02
+INFO:root:Humidity39.214:42:03
+INFO:root:Temperature24.514:42:03
+INFO:root:Humidity39.214:42:04
+INFO:root:Temperature24.314:42:04
+INFO:root:Humidity39.314:42:05
+INFO:root:Temperature24.514:42:05
+INFO:root:Humidity39.414:42:06
+INFO:root:Temperature24.414:42:06
+INFO:root:Humidity39.114:42:07
+INFO:root:Temperature24.514:42:07
+INFO:root:Humidity39.214:42:08
+INFO:root:Temperature24.514:42:08
+INFO:root:Humidity39.214:42:09
+INFO:root:Temperature24.614:42:09
+INFO:root:Humidity39.514:42:10
+INFO:root:Temperature24.514:42:10
+INFO:root:Humidity37.414:42:11
+INFO:root:Temperature24.414:42:11
+INFO:root:Humidity39.314:42:12
+INFO:root:Temperature24.514:42:12
+INFO:root:Humidity39.214:42:13
+INFO:root:Temperature24.614:42:13
+INFO:root:Humidity39.314:42:17
+INFO:root:Temperature24.614:42:17
+INFO:root:Humidity39.114:42:18
+INFO:root:Temperature24.614:42:18
+INFO:root:Humidity39.214:42:19
+INFO:root:Temperature24.614:42:19
+INFO:root:Humidity39.614:42:20
+INFO:root:Temperature24.614:42:20
+INFO:root:Humidity39.314:42:21
+INFO:root:Temperature24.614:42:21
+INFO:root:Humidity39.214:42:22
+INFO:root:Temperature24.514:42:22
+INFO:root:Humidity38.914:42:23
+INFO:root:Temperature24.614:42:23
+INFO:root:Humidity39.214:42:24
+INFO:root:Temperature24.614:42:24
+INFO:root:Humidity39.214:42:25
+INFO:root:Temperature24.614:42:25
+INFO:root:Humidity39.514:42:26
+INFO:root:Temperature24.614:42:26
+INFO:root:Humidity39.014:42:27
+INFO:root:Temperature24.714:42:27
+INFO:root:Humidity39.014:42:28
+INFO:root:Temperature24.614:42:28
+INFO:root:Humidity39.114:42:29
+INFO:root:Temperature24.514:42:29
+INFO:root:Humidity39.414:42:30
+INFO:root:Temperature24.614:42:30
+INFO:root:Humidity39.114:42:31
+INFO:root:Temperature24.514:42:31
+INFO:root:Humidity39.314:42:32
+INFO:root:Temperature24.614:42:32
+INFO:root:Humidity39.114:42:33
+INFO:root:Temperature24.414:42:33
+INFO:root:Humidity39.314:42:34
+INFO:root:Temperature24.614:42:34
+INFO:root:Humidity39.214:42:35
+INFO:root:Temperature24.614:42:35
+INFO:root:Humidity39.114:42:36
+INFO:root:Temperature24.414:42:36
+INFO:root:Humidity39.114:42:40
+INFO:root:Temperature24.614:42:40
+INFO:root:Humidity39.114:42:41
+INFO:root:Temperature24.314:42:41
+INFO:root:Humidity39.214:42:42
+INFO:root:Temperature24.614:42:42
+INFO:root:Humidity38.914:42:43
+INFO:root:Temperature24.614:42:43
+INFO:root:Humidity38.814:42:44
+INFO:root:Temperature24.414:42:44
+INFO:root:Humidity39.114:42:45
+INFO:root:Temperature24.514:42:45
+INFO:root:Humidity39.114:42:46
+INFO:root:Temperature24.614:42:46
+INFO:root:Humidity39.014:42:47
+INFO:root:Temperature24.614:42:47
+INFO:root:Humidity39.114:42:48
+INFO:root:Temperature24.614:42:48
+INFO:root:Humidity39.114:42:49
+INFO:root:Temperature24.814:42:49
+INFO:root:Humidity39.014:42:50
+INFO:root:Temperature24.714:42:50
+INFO:root:Humidity39.114:42:51
+INFO:root:Temperature24.614:42:51
+INFO:root:Humidity38.714:42:52
+INFO:root:Temperature24.714:42:52
+INFO:root:Humidity38.914:42:53
+INFO:root:Temperature24.614:42:53
+INFO:root:Humidity39.214:42:54
+INFO:root:Temperature24.714:42:54
+INFO:root:Humidity39.214:42:55
+INFO:root:Temperature24.714:42:55
+INFO:root:Humidity39.014:42:56
+INFO:root:Temperature24.514:42:56
+INFO:root:Humidity39.014:42:57
+INFO:root:Temperature24.614:42:57
+INFO:root:Humidity38.814:42:58
+INFO:root:Temperature24.614:42:58
+INFO:root:Humidity39.114:42:59
+INFO:root:Temperature24.614:42:59
+INFO:root:Humidity38.814:43:03
+INFO:root:Temperature24.614:43:03
+INFO:root:Humidity38.914:43:04
+INFO:root:Temperature24.614:43:04
+INFO:root:Humidity38.614:43:05
+INFO:root:Temperature24.714:43:05
+INFO:root:Humidity39.014:43:06
+INFO:root:Temperature24.714:43:06
+INFO:root:Humidity38.914:43:07
+INFO:root:Temperature24.814:43:07
+INFO:root:Humidity38.914:43:08
+INFO:root:Temperature24.714:43:08
+INFO:root:Humidity39.014:43:09
+INFO:root:Temperature24.614:43:09
+INFO:root:Humidity40.614:43:10
+INFO:root:Temperature24.714:43:10
+INFO:root:Humidity39.014:43:11
+INFO:root:Temperature24.714:43:11
+INFO:root:Humidity38.914:43:12
+INFO:root:Temperature24.714:43:12
+INFO:root:Humidity39.714:43:13
+INFO:root:Temperature24.714:43:13
+INFO:root:Humidity38.914:43:14
+INFO:root:Temperature24.914:43:14
+INFO:root:Humidity38.814:43:15
+INFO:root:Temperature24.714:43:15
+INFO:root:Humidity38.814:43:16
+INFO:root:Temperature24.714:43:16
+INFO:root:Humidity38.914:43:17
+INFO:root:Temperature24.814:43:17
+INFO:root:Humidity38.914:43:18
+INFO:root:Temperature24.814:43:18
+INFO:root:Humidity38.914:43:19
+INFO:root:Temperature24.814:43:19
+INFO:root:Humidity38.714:43:20
+INFO:root:Temperature24.814:43:20
+INFO:root:Humidity38.914:43:21
+INFO:root:Temperature24.714:43:21
+INFO:root:Humidity38.714:43:22
+INFO:root:Temperature24.714:43:22
+INFO:root:Humidity39.914:43:26
+INFO:root:Temperature24.914:43:26
+INFO:root:Humidity39.314:43:27
+INFO:root:Temperature24.914:43:27
+INFO:root:Humidity38.914:43:28
+INFO:root:Temperature24.814:43:28
+INFO:root:Humidity39.114:43:29
+INFO:root:Temperature24.814:43:29
+INFO:root:Humidity38.914:43:30
+INFO:root:Temperature24.914:43:30
+INFO:root:Humidity38.614:43:31
+INFO:root:Temperature24.814:43:31
+INFO:root:Humidity39.014:43:32
+INFO:root:Temperature24.814:43:32
+INFO:root:Humidity39.014:43:33
+INFO:root:Temperature24.914:43:33
+INFO:root:Humidity38.814:43:34
+INFO:root:Temperature24.914:43:34
+INFO:root:Humidity38.714:43:35
+INFO:root:Temperature25.014:43:35
+INFO:root:Humidity39.114:43:36
+INFO:root:Temperature24.914:43:36
+INFO:root:Humidity38.414:43:37
+INFO:root:Temperature24.814:43:37
+INFO:root:Humidity38.614:43:38
+INFO:root:Temperature24.914:43:38
+INFO:root:Humidity38.914:43:39
+INFO:root:Temperature24.914:43:39
+INFO:root:Humidity38.814:43:40
+INFO:root:Temperature24.914:43:40
+INFO:root:Humidity38.714:43:41
+INFO:root:Temperature24.914:43:41
+INFO:root:Humidity38.714:43:42
+INFO:root:Temperature24.914:43:42
+INFO:root:Humidity38.314:43:43
+INFO:root:Temperature25.014:43:43
+INFO:root:Humidity38.714:43:44
+INFO:root:Temperature25.014:43:44
+INFO:root:Humidity38.814:43:45
+INFO:root:Temperature25.014:43:45
+INFO:root:Humidity38.714:43:49
+INFO:root:Temperature25.014:43:49
+INFO:root:Humidity38.4 * 14:44:54
+INFO:root:Temperature25.1 * 14:44:54
+INFO:root:Humidity38.5 * 14:44:55
+INFO:root:Temperature25.0 * 14:44:55
+INFO:root:Humidity38.7 * 14:44:56
+INFO:root:Temperature24.9 * 14:44:56
+INFO:root:Humidity38.6 * 14:44:57
+INFO:root:Temperature24.8 * 14:44:57
+INFO:root:Humidity38.3 * 14:44:58
+INFO:root:Temperature24.9 * 14:44:58
+INFO:root:Humidity38.6 * 14:44:59
+INFO:root:Temperature24.9 * 14:44:59
+INFO:root:Humidity38.4 * 14:45:00
+INFO:root:Temperature24.9 * 14:45:00
+INFO:root:Humidity38.5 * 14:45:01
+INFO:root:Temperature25.0 * 14:45:01
+INFO:root:Humidity38.3 * 14:45:02
+INFO:root:Temperature24.9 * 14:45:02
+INFO:root:Humidity38.3 * 14:45:03
+INFO:root:Temperature25.0 * 14:45:03
+INFO:root:Humidity38.3 * 14:45:04
+INFO:root:Temperature25.0 * 14:45:04
+INFO:root:Humidity38.6 * 14:45:05
+INFO:root:Temperature24.9 * 14:45:05
+INFO:root:Humidity38.7 * 14:45:06
+INFO:root:Temperature24.9 * 14:45:06
+INFO:root:Humidity38.3 * 14:45:07
+INFO:root:Temperature24.9 * 14:45:07
+INFO:root:Humidity38.4 * 14:45:08
+INFO:root:Temperature24.9 * 14:45:08
+INFO:root:Humidity38.7 * 14:45:09
+INFO:root:Temperature24.9 * 14:45:09
+INFO:root:Humidity38.3 * 14:45:10
+INFO:root:Temperature25.0 * 14:45:10
+INFO:root:Humidity38.3 * 14:45:11
+INFO:root:Temperature25.0 * 14:45:11
+INFO:root:Humidity38.4 * 14:45:12
+INFO:root:Temperature25.0 * 14:45:12
+INFO:root:Humidity38.2 * 14:45:13
+INFO:root:Temperature24.9 * 14:45:13
+INFO:root:Humidity40.4 * 14:45:17
+INFO:root:Temperature25.0 * 14:45:17
+INFO:root:Humidity37.9 * 14:45:18
+INFO:root:Temperature24.9 * 14:45:18
+INFO:root:Humidity38.2 * 14:45:19
+INFO:root:Temperature25.0 * 14:45:19
+INFO:root:Humidity38.4 * 14:45:20
+INFO:root:Temperature25.0 * 14:45:20
+INFO:root:Humidity38.1 * 14:45:21
+INFO:root:Temperature25.0 * 14:45:21
+INFO:root:Humidity38.1 * 14:45:22
+INFO:root:Temperature25.0 * 14:45:22
+INFO:root:Humidity38.3 * 14:45:23
+INFO:root:Temperature25.0 * 14:45:23
+INFO:root:Humidity38.2 * 14:45:24
+INFO:root:Temperature25.0 * 14:45:24
+INFO:root:Humidity38.3 * 14:45:25
+INFO:root:Temperature25.0 * 14:45:25
+INFO:root:Humidity38.4 * 14:45:26
+INFO:root:Temperature25.1 * 14:45:26
+INFO:root:Humidity38.4 * 14:45:27
+INFO:root:Temperature25.0 * 14:45:27
+INFO:root:Humidity38.4 * 14:45:28
+INFO:root:Temperature25.0 * 14:45:28
+INFO:root:Humidity38.3 * 14:45:29
+INFO:root:Temperature25.1 * 14:45:29
+INFO:root:Humidity38.2 * 14:45:30
+INFO:root:Temperature25.1 * 14:45:30
+INFO:root:Humidity38.5 * 14:45:31
+INFO:root:Temperature25.0 * 14:45:31
+INFO:root:Humidity38.2 * 14:45:32
+INFO:root:Temperature25.0 * 14:45:32
+INFO:root:Humidity38.2 * 14:45:33
+INFO:root:Temperature25.0 * 14:45:33
+INFO:root:Humidity38.3 * 14:45:34
+INFO:root:Temperature25.0 * 14:45:34
+INFO:root:Humidity38.6 * 14:45:35
+INFO:root:Temperature25.0 * 14:45:35
+INFO:root:Humidity38.0 * 14:45:36
+INFO:root:Temperature25.0 * 14:45:36
+INFO:root:Humidity38.5 * 14:45:40
+INFO:root:Temperature25.1 * 14:45:40
+INFO:root:Humidity38.1 * 14:45:41
+INFO:root:Temperature25.1 * 14:45:41
+INFO:root:Humidity38.2 * 14:45:42
+INFO:root:Temperature25.1 * 14:45:42
+INFO:root:Humidity38.0 * 14:45:43
+INFO:root:Temperature25.0 * 14:45:43
+INFO:root:Humidity38.2 * 14:45:44
+INFO:root:Temperature25.1 * 14:45:44
+INFO:root:Humidity38.2 * 14:45:45
+INFO:root:Temperature25.0 * 14:45:45
+INFO:root:Humidity37.9 * 14:45:46
+INFO:root:Temperature25.0 * 14:45:46
+INFO:root:Humidity38.3 * 14:45:47
+INFO:root:Temperature25.1 * 14:45:47
+INFO:root:Humidity38.1 * 14:45:48
+INFO:root:Temperature25.0 * 14:45:48
+INFO:root:Humidity37.9 * 14:45:49
+INFO:root:Temperature25.0 * 14:45:49
+INFO:root:Humidity38.3 * 14:45:50
+INFO:root:Temperature24.9 * 14:45:50
+INFO:root:Humidity38.2 * 14:45:51
+INFO:root:Temperature25.0 * 14:45:51
+INFO:root:Humidity38.3 * 14:45:52
+INFO:root:Temperature24.9 * 14:45:52
+INFO:root:Humidity38.4 * 14:45:53
+INFO:root:Temperature24.9 * 14:45:53
+INFO:root:Humidity38.2 * 14:45:54
+INFO:root:Temperature24.9 * 14:45:54
+INFO:root:Humidity38.7 * 14:45:55
+INFO:root:Temperature24.9 * 14:45:55
+INFO:root:Humidity38.2 * 14:45:56
+INFO:root:Temperature24.9 * 14:45:56
+INFO:root:Humidity38.3 * 14:45:57
+INFO:root:Temperature25.1 * 14:45:57
+INFO:root:Humidity38.4 * 14:45:58
+INFO:root:Temperature25.0 * 14:45:58
+INFO:root:Humidity38.3 * 14:45:59
+INFO:root:Temperature25.0 * 14:45:59
+INFO:root:Humidity38.1 * 14:46:03
+INFO:root:Temperature24.9 * 14:46:03
+INFO:root:Humidity38.2 * 14:46:04
+INFO:root:Temperature25.0 * 14:46:04
+INFO:root:Humidity38.3 * 14:46:05
+INFO:root:Temperature25.0 * 14:46:05
+INFO:root:Humidity38.5 * 14:46:06
+INFO:root:Temperature25.0 * 14:46:06
+INFO:root:Humidity38.3 * 14:46:07
+INFO:root:Temperature25.0 * 14:46:07
+INFO:root:Humidity38.3 * 14:46:08
+INFO:root:Temperature24.8 * 14:46:08
+INFO:root:Humidity37.8 * 14:46:09
+INFO:root:Temperature24.9 * 14:46:09
+INFO:root:Humidity38.4 * 14:46:10
+INFO:root:Temperature25.0 * 14:46:10
+INFO:root:Humidity38.1 * 14:46:11
+INFO:root:Temperature24.9 * 14:46:11
+INFO:root:Humidity38.2 * 14:46:12
+INFO:root:Temperature24.9 * 14:46:12
+INFO:root:Humidity37.9 * 14:46:13
+INFO:root:Temperature24.9 * 14:46:13
+INFO:root:Humidity38.3 * 14:46:14
+INFO:root:Temperature25.0 * 14:46:14
+INFO:root:Humidity38.2 * 14:46:15
+INFO:root:Temperature25.0 * 14:46:15
+INFO:root:Humidity38.5 * 14:46:16
+INFO:root:Temperature25.0 * 14:46:16
+INFO:root:Humidity38.5 * 14:46:17
+INFO:root:Temperature25.1 * 14:46:17
+INFO:root:Humidity38.1 * 14:46:18
+INFO:root:Temperature25.0 * 14:46:18
+INFO:root:Humidity38.3 * 14:46:19
+INFO:root:Temperature25.0 * 14:46:19
+INFO:root:Humidity38.2 * 14:46:20
+INFO:root:Temperature25.0 * 14:46:20
+INFO:root:Humidity38.1 * 14:46:21
+INFO:root:Temperature25.0 * 14:46:21
+INFO:root:Humidity38.1 * 14:46:22
+INFO:root:Temperature24.9 * 14:46:22
+INFO:root:Humidity38.8 * 14:46:26
+INFO:root:Temperature25.0 * 14:46:26
+INFO:root:Humidity38.3 * 14:46:27
+INFO:root:Temperature25.0 * 14:46:27
+INFO:root:Humidity38.4 * 14:46:28
+INFO:root:Temperature25.0 * 14:46:28
+INFO:root:Humidity39.9 * 14:46:29
+INFO:root:Temperature25.0 * 14:46:29
+INFO:root:Humidity38.3 * 14:46:30
+INFO:root:Temperature25.0 * 14:46:30
+INFO:root:Humidity38.3 * 14:46:31
+INFO:root:Temperature24.9 * 14:46:31
+INFO:root:Humidity39.0 * 14:46:32
+INFO:root:Temperature24.9 * 14:46:32
+INFO:root:Humidity38.3 * 14:46:33
+INFO:root:Temperature25.0 * 14:46:33
+INFO:root:Humidity38.3 * 14:46:34
+INFO:root:Temperature25.0 * 14:46:34
+INFO:root:Humidity38.4 * 14:46:35
+INFO:root:Temperature25.0 * 14:46:35
+INFO:root:Humidity38.5 * 14:46:36
+INFO:root:Temperature25.0 * 14:46:36
+INFO:root:Humidity38.4 * 14:46:37
+INFO:root:Temperature25.0 * 14:46:37
+INFO:root:Humidity38.3 * 14:46:38
+INFO:root:Temperature25.0 * 14:46:38
+INFO:root:Humidity38.7 * 14:46:39
+INFO:root:Temperature25.0 * 14:46:39
+INFO:root:Humidity38.6 * 14:46:40
+INFO:root:Temperature25.0 * 14:46:40
+INFO:root:Humidity38.5 * 14:46:41
+INFO:root:Temperature25.0 * 14:46:41
+INFO:root:Humidity38.8 * 14:46:42
+INFO:root:Temperature25.0 * 14:46:42
+INFO:root:Humidity38.4 * 14:46:43
+INFO:root:Temperature25.0 * 14:46:43
+INFO:root:Humidity38.5 * 14:46:44
+INFO:root:Temperature25.1 * 14:46:44
+INFO:root:Humidity38.4 * 14:46:45
+INFO:root:Temperature25.0 * 14:46:45
+INFO:root:Humidity38.3 * 14:46:49
+INFO:root:Temperature25.0 * 14:46:49
+INFO:root:Humidity38.4 * 14:46:50
+INFO:root:Temperature25.0 * 14:46:50
+INFO:root:Humidity38.5 * 14:46:51
+INFO:root:Temperature25.0 * 14:46:51
+INFO:root:Humidity38.7 * 14:46:52
+INFO:root:Temperature25.1 * 14:46:52
+INFO:root:Humidity38.4 * 14:46:53
+INFO:root:Temperature25.0 * 14:46:53
+INFO:root:Humidity38.5 * 14:46:54
+INFO:root:Temperature25.1 * 14:46:54
+INFO:root:Humidity38.8 * 14:46:55
+INFO:root:Temperature25.0 * 14:46:55
+INFO:root:Humidity38.5 * 14:46:56
+INFO:root:Temperature25.1 * 14:46:56
+INFO:root:Humidity38.5 * 14:46:58
+INFO:root:Temperature25.1 * 14:46:58
+INFO:root:Humidity36.1 * 14:46:59
+INFO:root:Temperature25.1 * 14:46:59
+INFO:root:Humidity38.4 * 14:47:00
+INFO:root:Temperature25.0 * 14:47:00
+INFO:root:Humidity38.4 * 14:47:01
+INFO:root:Temperature24.9 * 14:47:01
+INFO:root:Humidity39.0 * 14:47:02
+INFO:root:Temperature24.9 * 14:47:02
+INFO:root:Humidity38.4 * 14:47:03
+INFO:root:Temperature25.0 * 14:47:03
+INFO:root:Humidity38.7 * 14:47:04
+INFO:root:Temperature25.0 * 14:47:04
+INFO:root:Humidity40.9 * 14:47:05
+INFO:root:Temperature25.1 * 14:47:05
+INFO:root:Humidity38.2 * 14:47:06
+INFO:root:Temperature25.0 * 14:47:06
+INFO:root:Humidity38.6 * 14:47:07
+INFO:root:Temperature25.2 * 14:47:07
+INFO:root:Humidity38.4 * 14:47:08
+INFO:root:Temperature25.1 * 14:47:08
+INFO:root:Humidity38.5 * 14:47:09
+INFO:root:Temperature25.0 * 14:47:09
+INFO:root:Humidity38.5 * 14:47:13
+INFO:root:Temperature25.1 * 14:47:13
